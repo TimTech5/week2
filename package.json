@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCloneInternship/week2.git/Eden"
+    "url": "git+https://github.com/TheCloneInternship/week2.git"
   },
   "keywords": [
     "maths", "sphere", "volume"
