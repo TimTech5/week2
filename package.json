@@ -1,0 +1,18 @@
+{
+  "name": "sphere-volume",
+  "version": "1.0.0",
+  "description": "calculate the volume of a sphere",
+  "main": "volume.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCloneInternship/week2.git"
+  },
+  "keywords": [
+    "maths", "sphere", "volume"
+  ],
+  "author": "Eden",
+  "license": "ISC"
+}
